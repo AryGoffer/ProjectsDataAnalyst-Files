@@ -1,0 +1,7 @@
+Power BI NY Traffic Violations Project
+--------------------------------------
+The full PBIX file is too large to upload directly to GitHub. It has been uploaded to Google Drive:
+
+Project link: https://drive.google.com/https://drive.google.com/file/d/1RpoQTf1-QU-G9bn01CspeCTReYlAH8I6/view?usp=drive_link
+
+Note: To open the project, download the PBIX file and use Power BI Desktop.
